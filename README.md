@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
-<h3 align="center">A passionate Backend Engineering from Indonesia.</h3>
+<h3 align="center">A passionate Mobile Developer from Indonesia.</h3>
 
 - 🔭I’m currently student at **STMIK IKMI CIREBON**
 
-- 🌱 I’m currently learning Golang **flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [https://azhar06.netlify.app/](https://azhar06.netlify.app/)
 
