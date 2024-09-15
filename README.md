@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [https://azharrizal06.github.io/azhar.github.io/)
+- 👨‍💻 All of my projects are available at https://azharrizal06.github.io/azhar.github.io
 
 - 📫 How to reach me **azharrizal06@gmail.com**
 
