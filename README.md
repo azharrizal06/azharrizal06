@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://azharrizal06.github.io/azhar.github.io](https://azharrizal06.github.io/azhar.github.io)
+- 👨‍💻 All of my projects are available at [[https://azharrizal06.github.io/azhar.github.io](https://azharrizal06.github.io/azhar.github.io](https://azhar-flutter-developer-uq4ttis.gamma.site/))
 
 - 📫 How to reach me: **azharseit8@gmail.com**
